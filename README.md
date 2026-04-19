@@ -1,2 +1,0 @@
-# sony-project
-sony-project
